@@ -1,0 +1,13 @@
+    Outputs 
+
+1. Decision Tree
+     Mean : 4.168572979327028
+     std : 0.7401774994274897
+
+2. Linear Regression
+     Mean : 4.9119466158041885
+     std : 1.0579007793189033
+ 
+3. Random Forest 
+    Mean : 3.0708277701768756
+    std : 0.9154005769478046
